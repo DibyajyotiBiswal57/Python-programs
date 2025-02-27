@@ -173,4 +173,4 @@ cython_debug/
 # Manim files
 manim.cfg
 /media
-/__pycache__
+/manim
