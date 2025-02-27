@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Manim files
+manim.cfg
+/media
+/__pycache__
