@@ -169,9 +169,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-# Manim files
-manim.cfg
-/media
-/manim
-/media/videos/main/480p15
