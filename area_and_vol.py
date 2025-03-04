@@ -1,5 +1,6 @@
 import math
 
+print("This program calculates the area and volume of some shapes.")
 choice1=input("Enter '1' for area for some shapes, '2' for the volume for some shapes: ")
 
 if choice1=='1':
