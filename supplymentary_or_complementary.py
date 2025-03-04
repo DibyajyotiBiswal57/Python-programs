@@ -7,4 +7,4 @@ if a1+a2==180:
 elif a1+a2==90:
     print ("The angles are complementary")
 else:
-    print ("The angles are neither complementary nor supplementary")s
+    print ("The angles are neither complementary nor supplementary")
