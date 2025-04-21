@@ -1,4 +1,4 @@
-print("This program calculate the BMI(Body Mass Index) of a person.")
+print("This program calculates the BMI(Body Mass Index) of a person.")
 weight=float(input("Enter your weight(in kgs):"))
 height=float(input("Enter your height(in m):"))
 
