@@ -1,3 +1,4 @@
+#Q9
 print("Weird operations")
 a=float(input("Enter a number: "))
 b=float(input("Enter another number: "))
