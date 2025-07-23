@@ -1,3 +1,4 @@
+#Q2
 print("This program calculates the average of four marks.")
 
 mark1=float(input("Enter the first mark: "))
