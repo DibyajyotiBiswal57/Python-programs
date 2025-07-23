@@ -1,3 +1,4 @@
+#Q10
 print ("# Program to find out whether the angles are supplementary or complementary")
 a1=int(input("Enter the first angle: "))
 a2=int(input("Enter the second angle: "))
