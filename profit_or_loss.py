@@ -1,3 +1,4 @@
+#Q11
 print("This program calculates profit and profit% or loss and loss%")
 cost_price = float(input("Enter the cost price: "))
 selling_price = float(input("Enter the selling price: "))
