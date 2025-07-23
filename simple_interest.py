@@ -1,3 +1,4 @@
+#Q6
 print("This program calculates the simple interest and amount.")
 p=float(input("Enter the principal: "))
 r=float(input("Enter the rate of interest: "))
