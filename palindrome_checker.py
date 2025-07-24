@@ -1,3 +1,4 @@
+#Q31
 num = int(input("Enter a 3-digit number: "))
 if 100 >= num >= 999:
     print("Error! You need to input a 3-digit number.")
