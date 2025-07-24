@@ -1,3 +1,4 @@
+#Q30
 num = float(input("Enter a number: "))
 if num.is_integer():
     if 0 <= abs(num) <= 9:
