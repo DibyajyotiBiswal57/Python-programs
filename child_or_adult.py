@@ -1,3 +1,4 @@
+#Q27
 print("This program checks if a person is a child or an adult.")
 age = int(input("Enter your age: "))
 if age >= 18:
