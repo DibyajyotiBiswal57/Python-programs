@@ -1,4 +1,5 @@
-year = int(input("Enter a year: "))
+
+#Q32year = int(input("Enter a year: "))
 if year % 4 != 0:
     print(f"{year} is not a leap year.")
 elif year % 100 != 0:
